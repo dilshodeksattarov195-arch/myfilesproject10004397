@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerealidate",
+        "uuid": 11128807,
+        "checksum": "petsr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
